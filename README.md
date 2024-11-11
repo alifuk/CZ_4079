@@ -9,6 +9,10 @@ příkazem `ssh-keygen.exe`
 - to mi vygeneruje v domovskásložka/.ssh soubory `id_rsa` a `id_rsa.pub`
 - obsah `id_rsa.pub` vložíme na github-Settings-SSH a GPT keys
 
+## Git nastavení user a hesla
+`git config --global user.name "FIRST_NAME LAST_NAME"`
+`git config --global user.email "example@email.com"`
+
 
 ## Úkol 1 - Kalkulačka
 
