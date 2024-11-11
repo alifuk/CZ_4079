@@ -9,3 +9,6 @@ příkazem `ssh-keygen.exe`
 - to mi vygeneruje v domovskásložka/.ssh soubory `id_rsa` a `id_rsa.pub`
 - obsah `id_rsa.pub` vložíme na github-Settings-SSH a GPT keys
 
+
+## Úkol 1
+
