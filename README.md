@@ -24,3 +24,8 @@ příkazem `ssh-keygen.exe`
 - udělat kalkulačku - zeptá se nás na první číslo, znaménko a druhé číslo (načítat lze pomocí `input()`)
 - zacommitovat a pushnout
 
+## Úkol 2 - Exception
+- ošetřit vstup
+- ošetřit dělení nulou
+
+
