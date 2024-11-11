@@ -27,5 +27,6 @@ příkazem `ssh-keygen.exe`
 ## Úkol 2 - Exception
 - ošetřit vstup
 - ošetřit dělení nulou
+- vyvolejte vyjímku, pokud uživatel zadal nějaké jiné znaménko než je povolené
 
 
