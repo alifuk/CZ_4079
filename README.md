@@ -32,3 +32,23 @@ příkazem `ssh-keygen.exe`
 ## Úkol 2 - Extra
 - nekonečná kalkulačka - dokud nenapíšeme "konec", tak se nás kalkulačka stále ptá na další operace
 
+## Task 1 - Calculator
+
+- Create a GitHub repository.
+- Clone it to your PC.
+- Write something in readme.md, create a commit, and push it.
+- Add `.idea` to `.gitignore`.
+- Send the URL of the repository in the chat.
+- Create a calculator:
+- It should prompt the user for the first number, an operator, and the second number (using input()).
+- Commit and push the changes.
+- 
+## Task 2 - Exception Handling
+
+- Validate user input.
+- Handle division by zero.
+- Raise an exception if the user enters an operator that is not allowed.
+- 
+## Task 2 - Extra
+
+- Infinite calculator - the calculator should keep asking for operations until the user types "end".
