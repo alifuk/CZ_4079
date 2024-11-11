@@ -10,5 +10,5 @@ příkazem `ssh-keygen.exe`
 - obsah `id_rsa.pub` vložíme na github-Settings-SSH a GPT keys
 
 
-## Úkol 1
+## Úkol 1 - Kalkulačka
 
