@@ -12,3 +12,11 @@ příkazem `ssh-keygen.exe`
 
 ## Úkol 1 - Kalkulačka
 
+- Vytvořit github repo
+- Naklonovat si to na PC
+- napsat něco do readme.md, vytvořit commit a pushnout to
+- dát do .gitignore `.idea`
+- poslat do chatu URL na to repo
+- udělat kalkulačku - zeptá se nás na první číslo, znaménko a druhé číslo (načítat lze pomocí `input()`)
+- zacommitovat a pushnout
+
