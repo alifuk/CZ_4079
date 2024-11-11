@@ -29,4 +29,6 @@ příkazem `ssh-keygen.exe`
 - ošetřit dělení nulou
 - vyvolejte vyjímku, pokud uživatel zadal nějaké jiné znaménko než je povolené
 
+## Úkol 2 - Extra
+- nekonečná kalkulačka - dokud nenapíšeme "konec", tak se nás kalkulačka stále ptá na další operace
 
