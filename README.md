@@ -57,3 +57,7 @@ příkazem `ssh-keygen.exe`
 ## Task 2 - Extra
 
 - Infinite calculator - the calculator should keep asking for operations until the user types "end".
+
+## Task 4 - Dědičnost tříd
+![task4](task4.png)
+Podle tohoto obrázku napsat třídy v Pythonu. Výsledek přidejte do nového souboru ve vašem repozitáři a zacommitujte.
