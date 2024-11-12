@@ -80,6 +80,7 @@ ENG:
 - při vytvoření zvířete, se přičte jeho váha k celkové váze (property `total_weight` u třídy Animals)
 - (volitelně navíc) zvířata mají metodu `set_weight`
 - když na konci programu napíšu `print(Animals.total_weight)`, tak se mi vypíše celková váha všech zvířat
+- (volitelné navíc) všechna zvířata dám do pole a ve for cyklu vypíšu jejich váhu
 
 ENG:
 - we start from the diagram in the image above
