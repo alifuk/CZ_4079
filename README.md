@@ -80,7 +80,7 @@ ENG:
 - při vytvoření zvířete, se přičte jeho váha k celkové váze (property `total_weight` u třídy Animals)
 - (volitelně navíc) zvířata mají metodu `set_weight`
 - když na konci programu napíšu `print(Animals.total_weight)`, tak se mi vypíše celková váha všech zvířat
-- (volitelné navíc) všechna zvířata dám do pole a ve for cyklu vypíšu jejich váhu
+- (volitelné navíc) všechna zvířata dám do listu (list = pole) a ve for cyklu vypíšu jejich váhu
 - (volitelné navíc) Třídu Animals udělejte abstraktní a dejte jí abstraktní metodu `set_weight`. Jaký error nastane když budeme chtít vytvořit instanci Animals?
 
 ENG:
