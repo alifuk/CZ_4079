@@ -60,4 +60,8 @@ příkazem `ssh-keygen.exe`
 
 ## Task 4 - Dědičnost tříd
 ![task4](task4.png)
+
 Podle tohoto obrázku napsat třídy v Pythonu. Výsledek přidejte do nového souboru ve vašem repozitáři a zacommitujte.
+
+Write classes in Python according to this diagram. Add the result to a new file in your repository and commit it."
+
