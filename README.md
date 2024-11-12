@@ -81,6 +81,7 @@ ENG:
 - (volitelně navíc) zvířata mají metodu `set_weight`
 - když na konci programu napíšu `print(Animals.total_weight)`, tak se mi vypíše celková váha všech zvířat
 - (volitelné navíc) všechna zvířata dám do pole a ve for cyklu vypíšu jejich váhu
+- (volitelné navíc) Třídu Animals udělejte abstraktní a dejte jí abstraktní metodu `set_weight`. Jaký error nastane když budeme chtít vytvořit instanci Animals?
 
 ENG:
 - we start from the diagram in the image above
