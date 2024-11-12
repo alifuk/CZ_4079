@@ -78,5 +78,5 @@ ENG:
 ## Task 6 - celková váha zvířát
 - vycházíme z diagramu na obrázku výše
 - při vytvoření zvířete, se přičte jeho váha k celkové váze (property `total_weight` u třídy Animals)
-- zvířata mají metodu `set_weight`
+- (volitelně navíc) zvířata mají metodu `set_weight`
 - když na konci programu napíšu `print(Animals.total_weight)`, tak se mi vypíše celková váha všech zvířat
