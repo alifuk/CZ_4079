@@ -70,6 +70,7 @@ Write classes in Python according to this diagram. Add the result to a new file 
 - Jiná třída dědí od obou tříd.
 - Instance jiné třídy zavolá onu metodu - z jaké třídy bude metoda vykonána?
 
+
 - Two classes should have the same method.
 - Another class inherits from both classes.
 - An instance of this other class calls that method - from which class will the method be executed?
