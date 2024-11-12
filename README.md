@@ -88,3 +88,5 @@ ENG:
 - when an animal is created, its weight is added to the total weight (property total_weight in the Animals class)
 - (optionally) animals have a set_weight method
 - at the end of the program, when I write print(Animals.total_weight), the total weight of all animals is displayed
+- (optional) put all animals in a list and print their weight in a for loop
+- (optional) make the Animals class abstract and give it an abstract method set_weight. What error will occur if we try to create an instance of Animals?
