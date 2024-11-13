@@ -94,11 +94,13 @@ ENG:
 ## Task 7 - deep copy budov
 - Zkopírujte si obsah souboru [Task7.py](https://github.com/alifuk/CZ_4079/blob/main/Task7.py)
 - Nad kód který tam je napište třídu `Budova`, které má metody `pridej_patro` a `get_copy`
+- Metody správně implementujte
 - Kód musí projít bez chyby
 
 ENG:
 - Copy the contents of the file [Task7.py](https://github.com/alifuk/CZ_4079/blob/main/Task7.py).
 - Above the code in that file, write a class `Budova` with methods `pridej_patro` and `get_copy`.
+- Implement methods
 - The code must run without errors.
 
 
