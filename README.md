@@ -123,3 +123,8 @@ time.sleep(1)
 end = time.time()
 print("Uplynulý čas {(end-start):.4f}")
 ```
+
+ENG:
+- Write a decorator @with_password. Functions with this decorator will only execute if the user correctly enters the password (use input() for this).
+- Write a decorator @print_time. This decorator should print how long the called function took to run.
+
