@@ -110,3 +110,7 @@ ENG:
 ENG
 - Step through the entire [decorator_example.py](https://github.com/alifuk/CZ_4079/blob/main/decorator_example.py) example using a debugger.
 - Take a screenshot at any point during debugging, and add this screenshot to the README in your repository. Instructions on how to insert an image are provided in the README file.
+
+## Task 8b - password
+- Napište dekorátor `@with_password`. Funkce, které tento dekorátor mají, se vykonají pouze, pokud uživatel správně zadá heslo (využijte input()).
+
