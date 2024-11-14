@@ -128,3 +128,15 @@ ENG:
 - Write a decorator @with_password. Functions with this decorator will only execute if the user correctly enters the password (use input() for this).
 - Write a decorator @print_time. This decorator should print how long the called function took to run.
 
+## Task 9 - úkolovník
+ 
+Cílem úkolu je vytvořit poznámkový blok
+V poznámkovém bloku můžeme přidávat, odebírat nebo měnit řádky.
+Když spustíme program tak máme následující možnosti:
+- Přidat poznámku (nakonec)
+- Vypsat všechny poznámky
+- Smazat poznámku (budeme vyzváni, jaký řádek smazat)
+- Upravit poznámku (budeve vyzváni, jaký řádek a jak upravit)
+- Uložit poznámky do souboru .csv (budeme vyzváni do jakého souboru) 
+- (Volitelně uložení i přes pickle)
+- Načíst poznámky ze souboru .csv (budeme vyzváni z jakého souboru)
