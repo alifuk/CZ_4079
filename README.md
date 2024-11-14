@@ -106,3 +106,7 @@ ENG:
 ## Task 8 - decorator
 - Přes debugger si prokrokujte celý [decorator_example.py](https://github.com/alifuk/CZ_4079/blob/main/decorator_example.py) příklad
 - Udělejte screenshot, z nějakého kroku během debugu, a tento screenshot vložte do readme ve Vašem repozitáři. Jak vložit obrázek vidíte v tomto readme souboru
+
+ENG
+- Step through the entire [decorator_example.py](https://github.com/alifuk/CZ_4079/blob/main/decorator_example.py) example using a debugger.
+- Take a screenshot at any point during debugging, and add this screenshot to the README in your repository. Instructions on how to insert an image are provided in the README file.
