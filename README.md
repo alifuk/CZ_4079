@@ -103,4 +103,6 @@ ENG:
 - Implement methods
 - The code must run without errors.
 
-
+## Task 8 - decorator
+- Přes debugger si prokrokujte celý [decorator_example.py](https://github.com/alifuk/CZ_4079/blob/main/decorator_example.py) příklad
+- Udělejte screenshot, z nějakého kroku během debugu, a tento screenshot vložte do readme ve Vašem repozitáři. Jak vložit obrázek vidíte v tomto readme souboru
