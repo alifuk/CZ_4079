@@ -113,4 +113,13 @@ ENG
 
 ## Task 8b - password
 - Napište dekorátor `@with_password`. Funkce, které tento dekorátor mají, se vykonají pouze, pokud uživatel správně zadá heslo (využijte input()).
+- Napište dekorátor `@print_time`. Tento dekorátor vypíše, jak dlouho volaná funkce běžela.
 
+Zastavení programu na sekundu a změření času:
+```
+import time
+start = time.time()
+time.sleep(1)
+end = time.time()
+print("Uplynulý čas {(end-start):.4f}")
+```
