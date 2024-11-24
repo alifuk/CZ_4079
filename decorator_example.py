@@ -1,3 +1,4 @@
+print("zacatek")
 def vyprintuj_a_pust(func):
     def nova_funkce(a,b):
         print(f"pouštíme funkci {func.__name__} s parametry {a}, {b}")
