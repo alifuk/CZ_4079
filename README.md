@@ -140,3 +140,16 @@ Když spustíme program tak máme následující možnosti:
 - Uložit poznámky do souboru .csv (budeme vyzváni do jakého souboru) 
 - (Volitelně uložení i přes pickle)
 - Načíst poznámky ze souboru .csv (budeme vyzváni z jakého souboru)
+
+
+The goal of the task is to create a notebook application.
+In the notebook, we can add, delete, or modify lines.
+When we run the program, we have the following options:
+
+Add a note (append it to the end)
+Display all notes
+Delete a note (we will be prompted for which line to delete)
+Edit a note (we will be prompted for which line to edit and the new content)
+Save notes to a .csv file (we will be prompted to specify the file name)
+(Optional: Save notes using pickle as well)
+Load notes from a .csv file (we will be prompted to specify the file to load from)
