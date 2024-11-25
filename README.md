@@ -138,8 +138,10 @@ Když spustíme program tak máme následující možnosti:
 - Smazat poznámku (budeme vyzváni, jaký řádek smazat)
 - Upravit poznámku (budeve vyzváni, jaký řádek a jak upravit)
 - Uložit poznámky do souboru .csv (budeme vyzváni do jakého souboru) 
-- (Volitelně uložení i přes pickle)
 - Načíst poznámky ze souboru .csv (budeme vyzváni z jakého souboru)
+- Pokud máte hotovo - uložení i přes pickle i JSON
+- Pokud máte hotovo - nepoužívat funkce, ale vše vložit do třídy
+- Pokud máte hotovo - ošetřit všechny vstupy - program nesmí spadnout při zadání libovolného vstupu
 
 
 The goal of the task is to create a notebook application.
