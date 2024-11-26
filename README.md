@@ -155,3 +155,10 @@ Edit a note (we will be prompted for which line to edit and the new content)
 Save notes to a .csv file (we will be prompted to specify the file name)
 (Optional: Save notes using pickle as well)
 Load notes from a .csv file (we will be prompted to specify the file to load from)
+
+
+## Task 10
+- v souboru Task10_context.py doplnit implementaci třídy tak, aby context měřil čas vnitřku bloku
+
+
+
