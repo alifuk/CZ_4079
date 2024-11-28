@@ -1,6 +1,6 @@
 #Task 11 - udělat iterátor, kterému řekneme kolik chceme čísel, např. 5.
 #Iterátor bude postupně vracet mocniny těchto čísel. Tzn pro číslo 5, iterátor vrátí 1, 4, 9, 16, 25
-
+#Pro č. 3 by iterátor vrátil hodnoty 1,4,9
 mocniny = IteratorMocnin(5)
 for mocnina in mocniny:
     print(mocnina)
