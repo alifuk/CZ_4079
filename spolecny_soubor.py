@@ -6,7 +6,7 @@ def funkce_Nicole():
     pass
 
 def funkce_Milan():
-    pass
+    print("Gin tonic navzdy")
 
 def funkce_Juraj():
     pass
