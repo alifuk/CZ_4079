@@ -15,4 +15,5 @@ def funkce_Jiri():
     pass
 
 def funkce_Albert():
+    print("Ahoj AL")
     pass
