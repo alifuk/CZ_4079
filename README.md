@@ -163,4 +163,8 @@ Load notes from a .csv file (we will be prompted to specify the file to load fro
 - v souboru Task10_context.py doplnit implementaci třídy tak, aby context měřil čas vnitřku bloku
 
 
+## Task 11
+- bude potřeba udělat
+
+
 
