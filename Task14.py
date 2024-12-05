@@ -1,0 +1,1 @@
+print("Toto je task 14")
