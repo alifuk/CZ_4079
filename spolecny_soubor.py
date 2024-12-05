@@ -1,6 +1,6 @@
 
-def funkce_Livie():
-    pass
+def funkce_Livia():
+    print("pokus")
 
 def funkce_Nicole(delka):
     import random
