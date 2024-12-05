@@ -12,7 +12,7 @@ def funkce_Nicole(delka):
     return heslo
 
 def funkce_Milan():
-    pass
+    print("Gin tonic navzdy")
 
 def funkce_Juraj():
     pass
