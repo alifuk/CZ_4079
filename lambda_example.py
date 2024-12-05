@@ -30,3 +30,18 @@ ma = Lide("Martin", 33)
 navstevnici = [zd, ma, alb]
 print(sorted(navstevnici, key= lambda x: x.jmeno))
 print(sorted(navstevnici, key= lambda x: x.vek))
+
+def secti(a, b):
+    print(f"Sčítám {a} , {b}")
+    return a + b
+
+#Reduce example
+items = [1, 2, 3, 4, 5]
+from functools import reduce
+print(reduce(secti, items  ) )
+
+
+
+a = {'name': "Adam", 'surname': "Smith"}
+for key, value in a.items():    #.values()   .keys()   .items()
+    print(value)

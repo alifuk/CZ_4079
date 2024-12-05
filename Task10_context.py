@@ -8,9 +8,9 @@ class TimeMeasurment:
     def __enter__(self):
         self.start_time = datetime.now()
         print(f"Spouštím výpočet v čase {self.start_time.strftime('%H:%M:%S')}")
-        return None
+        return self
 
-    def __exit__(self, a, b, c):
+    def __exit__(self, a,b,c):
         total_time = datetime.now() - self.start_time
         print(f"Dokončeno v čase {datetime.now().strftime('%H:%M:%S')} - blok trval {total_time} sekundy")
         pass

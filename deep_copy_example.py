@@ -1,22 +1,16 @@
-from copy import deepcopy
+def vyprintuj_a_pust(func):
+    def nova_funkce(a,b):
+        print(f"pouštíme funkci {func.__name__} s parametry {a}, {b}")
+        return func(a,b)
+    return nova_funkce
 
+@vyprintuj_a_pust
+def soucet(a,b):
+    return a+b
 
-class Garage:
-    def __init__(self):
-        self.spaces = []
+@vyprintuj_a_pust
+def rozdil(a,b):
+    return a-b
 
-    def add_car(self, car_name):
-        self.spaces.append(car_name)
-
-
-brno_garage = Garage()
-brno_garage.add_car("Volvo")
-brno_garage.add_car("Maserati")
-print(f"V garáži brno je: {brno_garage.spaces}")
-# praha_garage = deepcopy(brno_garage)
-praha_garage = brno_garage
-print(f"V praha_garage je: {praha_garage.spaces}")
-praha_garage.add_car("Trabant")
-print("Do prahy jsme přidali trabanta")
-print(f"V garáži brno je: {brno_garage.spaces} id: {id(brno_garage)}")
-print(f"V praha_garage je: {praha_garage.spaces} id: {id(praha_garage)}")
+print(soucet(3,5))
+print(rozdil(3,5))

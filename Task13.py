@@ -1,22 +1,31 @@
-#Task 13 - zároveň sčítáme a násobíme
+import threading
+import time
+celkovy_soucet = 1
+def secti(num):
+    global celkovy_soucet
+    print("Začínám vykonávat sčítání")
+    for i in range(num):
+        print(i)
+        celkovy_soucet += i
 
-#cílem bude paralerně počítat:
-# součet čísel 1,2,3,4,...1000000
-# násobení čísel 1, 2, 3,4, .... 100
+def vynasob(num):
+    global celkovy_soucet
+    print("Začínám vykonávat násobení")
+    for i in range(num):
+        print(i)
+        celkovy_soucet *= i+1
 
+print("Spustí se pouze toto")
+if __name__ == "__main__": #K čemu to je?
+    print("toto se už nespustí")
 
-#Vložit třídu ThreadWithReturnValue
+    thread_secti  = threading.Thread(target=secti, args=(30000,))
+    thread_vynasob = threading.Thread(target=vynasob, args=(300,))
 
-# definovat funkce pro sčítání a násobení
+    thread_secti.start()
+    thread_vynasob.start()
 
-# inicializovat třídu ThreadWithReturnValue pro každou úlohu
+    thread_secti.join()
+    thread_vynasob.join()
 
-# pustit  .start()
-
-# počkat na výsledek .join()
-
-vysledek_scitani =
-vysledek_nasobeni =
-
-# vyprintovat výsledky
-
+    print(f"Vysledek scitani cisel od 1 do 1 000 000 je {celkovy_soucet}.")

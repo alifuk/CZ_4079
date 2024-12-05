@@ -107,7 +107,7 @@ class NakupnyZoznam:
         except Exception as e:
             print(f"Chyba pri načítaní z JSON: {e}")
 
-class operacie:
+class Operacie:
     def __init__(self):
         self.nakupny_zoznam = NakupnyZoznam()
 
@@ -156,5 +156,9 @@ class operacie:
 
 
 
-operacie = operacie()
-operacie.spustit()
+operacie3 = Operacie()
+operacie3.spustit()
+
+operacie2 = Operacie()
+operacie4 = Operacie()
+operacie5 = Operacie() #Konstruktor - protože to konstruuje objekt/instanci =  __init__
