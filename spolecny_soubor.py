@@ -23,3 +23,5 @@ def funkce_Jiri():
 def funkce_Albert():
     print("Ahoj AL")
     pass
+
+print("Díky za spolupráci")
