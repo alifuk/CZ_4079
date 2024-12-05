@@ -12,7 +12,7 @@ def funkce_Juraj():
     pass
 
 def funkce_Jiri():
-    pass
+    print("Jirka rika, ze je dneska hezky pocasi.")
 
 def funkce_Albert():
     pass
