@@ -164,7 +164,7 @@ Load notes from a .csv file (we will be prompted to specify the file to load fro
 
 
 ## Task 11
-- bude potřeba udělat
+- bude potřeba udělat porovnání použití s vlákny a bez vláken
 
 
 
